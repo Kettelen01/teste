@@ -1,0 +1,44 @@
+body {
+     /* COM USADA PARA AS LETRAS */ 
+    color: black;
+    /* COM USADADA PARA FUNDO DA PAGINA*/
+    background-color: orange
+}
+
+ul {
+    /* ALTERANDO FONTE - TAMANHO NA PAGINA*/
+    list-style-type: none;
+    padding-left: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+a {
+    /* ACRECENTANDO E EDITANDO O ELEMENTO A PARA QUE 
+    A FONTE VOLTE A COR ESCOLHIDA */
+    color: black;
+
+}
+
+header img {
+    /* ACRECENTANDO E EDITANDO O ELEMENTO A PARA QUE 
+    A IMAGEM FIQUE DE UM TAMANHO ADEQUDO*/
+
+    width: 150px;
+    height: 150px;
+   
+    /* USADADO PARA MUDAR FORTATO DA BORDA DA IMAGEM*/
+    border-radius: 50%  
+}
+ /* SEMPRE QUE FOR CRIAR CLASSE USAR . NA FRENTE*/
+
+.center {
+    /* USANDO TEXT-ALING CENTER PARA CENTRALIZAR ELEMENTO 
+    DENTRO DA DIV*/
+    text-align: center;
+}
+footer img {
+    width: 45px;
+    height: 45px;
+}
+    
